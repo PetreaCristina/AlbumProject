@@ -1,6 +1,6 @@
 c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\bin\Debug\AlbumProject.exe.config
 c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\bin\Debug\AlbumProject.exe
 c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\bin\Debug\AlbumProject.pdb
-c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\obj\Debug\AlbumProject.csprojResolveAssemblyReference.cache
 c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\obj\Debug\AlbumProject.exe
 c:\users\exnintern4\documents\visual studio 2015\Projects\AlbumProject\AlbumProject\obj\Debug\AlbumProject.pdb
+C:\Users\EXNintern4\Documents\Visual Studio 2015\Projects\AlbumProject\AlbumProject\obj\Debug\AlbumProject.csprojResolveAssemblyReference.cache
